@@ -2,8 +2,7 @@ export default function Cabecalho(){
 
     return(
         <header>
-            
-             <div className="container mx-auto flex justify-between items-center">
+            <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold">Hospital das Clínicas</h1>
         <nav>
             <ul className="flex space-x-4">
