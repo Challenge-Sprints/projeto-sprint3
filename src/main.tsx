@@ -7,9 +7,12 @@ import Home from './routes/Home/index.tsx'
 import Agendamento from './routes/Agendamento/index.tsx'
 import Consultas from './routes/Consultas/index.tsx'
 import Error from './routes/Error/index.tsx'
+<<<<<<< HEAD
 import Contato from './routes/Contato/index.tsx'
 import Faq from './routes/Faq/index.tsx'
 import QuemSomos from './routes/QuemSomos/index.tsx'
+=======
+>>>>>>> 6f4fe4cffeff15a89bf8316a0aadcb186387a98f
 
 const router = createBrowserRouter([
   {
@@ -28,6 +31,7 @@ const router = createBrowserRouter([
       {
         path: '/consultas',
         element: <Consultas/>,
+<<<<<<< HEAD
       },
       {
         path: '/Contato',
@@ -40,6 +44,8 @@ const router = createBrowserRouter([
       {
         path: '/QuemSomos',
         element: <QuemSomos/>,
+=======
+>>>>>>> 6f4fe4cffeff15a89bf8316a0aadcb186387a98f
       }
     ]
   }
