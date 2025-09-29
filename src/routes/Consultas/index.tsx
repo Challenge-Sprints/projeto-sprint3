@@ -1,8 +1,4 @@
 export default function Consultas() {
-<<<<<<< HEAD
-=======
-    // Dados de exemplo para as consultas
->>>>>>> 6f4fe4cffeff15a89bf8316a0aadcb186387a98f
     const consultas = [
         { id: 101, dataHora: '2025-05-25 10:00', medico: 'Dr. João', status: 'Confirmada' },
         { id: 102, dataHora: '2025-05-30 14:00', medico: 'Dra. Maria', status: 'Pendente' },
